@@ -1,0 +1,13 @@
+visina : 9cm
+oddaljenost: 17 cm
+tla->spodnji del kolesa: 6.5 cm
+motor dvignjen od tal: 2.8 cm
+
+2r motorja : 2.8 cm
+sirsi del pri kablih : 1.75 cm
+ozji del pri kablih : 1.5 
+visina motorja: 1.93cm 
+mounting points h: 1mm
+os : 5mm x 3mm
+visina osi: 6mm
+

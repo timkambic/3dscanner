@@ -1,0 +1,5 @@
+3D SCANNER
+
+web cam ---> opencv-->sprotno prikazovanje (pyopengl, pygame,MATPLOTLIB!!)
+					|
+					--> v txt file koordinate --> FreeCad import 

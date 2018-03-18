@@ -1,0 +1,2 @@
+-ROI
+-ker bel pixel uzet (1 ?)
